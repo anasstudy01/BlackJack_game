@@ -1,4 +1,4 @@
-##Blackjack Game - JavaScript, HTML, CSS
+<h1>Blackjack Game - JavaScript, HTML, CSS</h1>
 Blackjack Screenshot (You can add a screenshot later)
 
 A complete browser-based Blackjack (21) game built with vanilla JavaScript, HTML, and CSS. This project implements the core rules of casino-style Blackjack with a clean, responsive interface.
@@ -16,7 +16,7 @@ Features
 
 💰 Optional betting system (can be enabled/disabled)
 
-Technologies Used
+<h2>Technologies Used</h2>
 Frontend: Vanilla JavaScript (ES6+)
 
 Styling: Pure CSS with Flexbox/Grid
@@ -25,7 +25,7 @@ Markup: Semantic HTML5
 
 Build: No dependencies or frameworks required
 
-How to Play
+<h2>How to Play</h2>
 Clone or download the repository
 
 Open index.html in your browser
